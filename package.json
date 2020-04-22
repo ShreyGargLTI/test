@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "name": "test",
+=======
+    "name": "Task1",
+>>>>>>> 3b97c9041d3877488536c885241c4f241f92bb1a
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {},
